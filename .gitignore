@@ -1,0 +1,11 @@
+# Secrets: never commit these
+compose/.env
+compose/nginx/certs/
+*.key
+*.pem
+wireguard/*.conf
+secrets/
+restic-password*
+.aws/
+credentials
+*.csv.bak
