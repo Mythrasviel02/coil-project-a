@@ -1,2 +1,1 @@
-# coil-project-a
-Coil Project A: Campus-to-Campus File
+# Coil Project A: Campus-to-Campus File
