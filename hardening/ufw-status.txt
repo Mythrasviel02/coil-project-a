@@ -1,0 +1,11 @@
+Status: active
+
+     To                         Action      From
+     --                         ------      ----
+[ 1] 51820/udp                  ALLOW IN    Anywhere                   # WireGuard from anywhere
+[ 2] 22/tcp on wg0              ALLOW IN    Anywhere                   # SSH only through the VPN
+[ 3] 443/tcp on wg0             ALLOW IN    Anywhere                   # Nextcloud via VPN (Docker bypasses ufw; documents intent)
+[ 4] 51820/udp (v6)             ALLOW IN    Anywhere (v6)              # WireGuard from anywhere
+[ 5] 22/tcp (v6) on wg0         ALLOW IN    Anywhere (v6)              # SSH only through the VPN
+[ 6] 443/tcp (v6) on wg0        ALLOW IN    Anywhere (v6)              # Nextcloud via VPN (Docker bypasses ufw; documents intent)
+
