@@ -1,0 +1,2 @@
+date,time,country,city,connection,region,median_ms,loss_pct,method
+2026-10-28,09:00,Philippines,Mati,home-wifi,ap-southeast-2,300,0,icmp-100
