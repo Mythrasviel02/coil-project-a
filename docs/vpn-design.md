@@ -48,8 +48,8 @@ simplicity and deliver each file privately.
 | ph-member2 | PH NAME 2 | 10.8.0.3 | Windows laptop | DATE | end of COIL |
 | pl-member1 | Jędrzej Gąsiorowski | 10.8.0.4 | Windows 11 laptop | DATE | end of COIL |
 | pl-member2 | PL NAME 2 | 10.8.0.5 | LAPTOP OS | DATE | end of COIL |
-| fac-sacay | Ar-Jay R. Sacay, MIT | 10.8.0.10 | OS | DATE | end of COIL |
-| fac-frankowski | Dr. Paweł Frankowski | 10.8.0.11 | OS | DATE | end of COIL |
+| fac-dorsu | Ar-Jay R. Sacay, MIT | 10.8.0.10 | OS | DATE | end of COIL |
+| fac-mus | Dr. Paweł Frankowski | 10.8.0.11 | OS | DATE | end of COIL |
 | kuma | Uptime Kuma VM, Szczecin | 10.8.0.20 | Ubuntu 26.04 LTS VM (VirtualBox) | DATE | end of COIL |
 
 ## 4. Peer settings
