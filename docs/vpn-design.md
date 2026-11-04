@@ -44,10 +44,10 @@ simplicity and deliver each file privately.
 
 | Peer name | Person or device | VPN address | Device | Delivered on | Removed |
 | --- | --- | --- | --- | --- | --- |
-| ph-member1 | PH NAME 1 | 10.8.0.2 | Windows laptop | DATE | end of COIL |
-| ph-member2 | PH NAME 2 | 10.8.0.3 | Windows laptop | DATE | end of COIL |
-| pl-member1 | Jędrzej Gąsiorowski | 10.8.0.4 | Windows 11 laptop | DATE | end of COIL |
-| pl-member2 | PL NAME 2 | 10.8.0.5 | LAPTOP OS | DATE | end of COIL |
+| ph-member1 | PH 1 | 10.8.0.2 | Windows laptop | DATE | end of COIL |
+| ph-member2 | PH 2 | 10.8.0.3 | Windows laptop | DATE | end of COIL |
+| pl-member1 | PL 1 | 10.8.0.4 | Windows 11 laptop | DATE | end of COIL |
+| pl-member2 | PL 2 | 10.8.0.5 | LAPTOP OS | DATE | end of COIL |
 | fac-sacay | Ar-Jay R. Sacay, MIT | 10.8.0.10 | OS | DATE | end of COIL |
 | fac-frankowski | Dr. Paweł Frankowski | 10.8.0.11 | OS | DATE | end of COIL |
 | kuma | Uptime Kuma VM, Szczecin | 10.8.0.20 | Ubuntu 26.04 LTS VM (VirtualBox) | DATE | end of COIL |
