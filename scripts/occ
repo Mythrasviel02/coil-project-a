@@ -1,2 +1,3 @@
-
+#!/usr/bin/env bash
+# Run a Nextcloud occ command inside the app container.
 cd /opt/coil/compose && exec docker compose exec -T -e OC_PASS="${OC_PASS:-}" -u www-data app php occ "$@"
