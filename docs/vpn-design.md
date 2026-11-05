@@ -45,13 +45,6 @@ simplicity and deliver each file privately.
 | Peer name | Person or device | VPN address | Device | Delivered on | Removed |
 | --- | --- | --- | --- | --- | --- |
 <<<<<<< HEAD
-| ph-member1 | PH 1 | 10.8.0.2 | Windows laptop | DATE | end of COIL |
-| ph-member2 | PH 2 | 10.8.0.3 | Windows laptop | DATE | end of COIL |
-| pl-member1 | PL 1 | 10.8.0.4 | Windows 11 laptop | DATE | end of COIL |
-| pl-member2 | PL 2 | 10.8.0.5 | LAPTOP OS | DATE | end of COIL |
-| fac-sacay | Ar-Jay R. Sacay, MIT | 10.8.0.10 | OS | DATE | end of COIL |
-| fac-frankowski | Dr. Paweł Frankowski | 10.8.0.11 | OS | DATE | end of COIL |
-=======
 | ph-member1 | Mayo E. Nugas | 10.8.0.2 | Windows laptop | DATE | end of COIL |
 | ph-member2 | Bonnel Jhon I. Catipay | 10.8.0.3 | Windows laptop | DATE | end of COIL |
 | pl-member1 | Jędrzej Gąsiorowski | 10.8.0.4 | Windows 11 laptop | DATE | end of COIL |
